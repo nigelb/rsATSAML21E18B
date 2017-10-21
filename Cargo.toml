@@ -1,0 +1,14 @@
+[package]
+authors = ["NigelB <nigel.blair@gmail.com>"]
+name = "saml21e18b"
+version = "0.1.0"
+
+[dependencies]
+bare-metal = "0.1.1"
+vcell = "0.1.0"
+
+[dependencies.cortex-m]
+version = "0.2.7"
+
+[dependencies.cortex-m-rt]
+version = "0.2.3"
